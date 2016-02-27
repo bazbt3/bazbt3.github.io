@@ -1,5 +1,6 @@
 read,name,link
-N,Unison file sync - server-client - via @height8,https://www.cis.upenn.edu/~bcpierce/unison/index.html
+N,Git hooks example,http://ryanflorence.com/deploying-websites-with-a-tiny-git-hook/
+Y,Unison file sync - server-client - via @height8,https://www.cis.upenn.edu/~bcpierce/unison/index.html
 N,Raspberry Pi backups,https://www.raspberrypi.org/documentation/linux/filesystem/backup.md
 N,Git credential helper,https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage
 Y,lftp.yar.ru,http://lftp.yar.ru/
