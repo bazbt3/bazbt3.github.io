@@ -49,6 +49,8 @@ I could blog on any number of host platforms, yet I choose to restrict my words 
 
 I've already had a brief play with the API; created an app authorisation token, and then an access token to interact with the API before my first 'hello world' post - at which point my head asploded!
 
+It's not every day I'm programming on a computer controlled by the computer on my lap.  (SSH is magic, pure and simple.)
+
 I'm not alone attempting to develop stuff.  Fortunately everyone *else* has relevant skills!
 
 For its freshness, newness, openness and all-round friendliness I can easily recommend 10Cv4.  It's a place that both promises and *delivers* on the promise that App.net emerged with and, to a degree, still retains.
