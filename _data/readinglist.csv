@@ -1,4 +1,5 @@
 read,name,link
+N,Config files for scripts,http://wiki.bash-hackers.org/howto/conffile
 N,Parsing json with Unix tools,http://stackoverflow.com/questions/1955505/parsing-json-with-unix-tools
 N,Git hooks example,http://ryanflorence.com/deploying-websites-with-a-tiny-git-hook/
 Y,Unison file sync - server-client - via @height8,https://www.cis.upenn.edu/~bcpierce/unison/index.html
@@ -10,7 +11,7 @@ Y,Shebang (Unix),https://en.m.wikipedia.org/wiki/Shebang_(Unix)
 N,Apache web server on a Raspberry Pi,https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
 N,Password protected pages with Jekyll,https://flohei.de/blog/password-protected-pages-with-jekyll
 Y,ADN conversation and thread re. self-hosted blog & protected journal - @jnm,https://posts.app.net/67676679
-N,Git reference,http://gitref.org/
+Y,Git reference,http://gitref.org/
 Y,Filezilla FTP command line,https://wiki.filezilla-project.org/Command-line_arguments_(Client)
 Y,GitHub Git command line tutorial (starting with Set Up Git!),https://help.github.com/articles/set-up-git/
 Y,Raspberry Pi DDNS (defunct!),http://ip.raspctl.com/
