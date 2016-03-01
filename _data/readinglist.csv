@@ -1,5 +1,6 @@
 read,name,link
-N,The Hitchhiker’s Guide to Python,http://docs.python-guide.org
+N,Learn Python,http://www.learnpython.org/
+Y,The Hitchhiker’s Guide to Python,http://docs.python-guide.org
 Y,Config files for scripts,http://wiki.bash-hackers.org/howto/conffile
 Y,Parsing json with Unix tools,http://stackoverflow.com/questions/1955505/parsing-json-with-unix-tools
 N,Git hooks example,http://ryanflorence.com/deploying-websites-with-a-tiny-git-hook/
