@@ -1,5 +1,6 @@
 read,name,link
-N,Run curl from Python script,https://www.raspberrypi.org/forums/viewtopic.php?f=32&t=112351
+N,Simple URL GET/POST function in Python,http://stackoverflow.com/questions/4476373/simple-url-get-post-function-in-python
+Y,Run curl from Python script,https://www.raspberrypi.org/forums/viewtopic.php?f=32&t=112351
 N,Learn Python,http://www.learnpython.org/
 Y,The Hitchhiker’s Guide to Python,http://docs.python-guide.org
 Y,Config files for scripts,http://wiki.bash-hackers.org/howto/conffile
