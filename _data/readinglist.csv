@@ -1,21 +1,22 @@
 read,name,link
-N,Pushover API stuff,https://pushover.net/faq#library
-N,Making a request with Python Requests,http://docs.python-requests.org/en/master/user/quickstart/
-N,Simple URL GET/POST function in Python,http://stackoverflow.com/questions/4476373/simple-url-get-post-function-in-python
+N,3to2 - Convert Python 3 applications to Python 2,https://wiki.python.org/moin/3to2
+Y,Pushover API stuff,https://pushover.net/faq#library
+Y,Making a request with Python Requests,http://docs.python-requests.org/en/master/user/quickstart/
+Y,Simple URL GET/POST function in Python,http://stackoverflow.com/questions/4476373/simple-url-get-post-function-in-python
 Y,Run curl from Python script,https://www.raspberrypi.org/forums/viewtopic.php?f=32&t=112351
-N,Learn Python,http://www.learnpython.org/
+Y,Learn Python,http://www.learnpython.org/
 Y,The Hitchhiker’s Guide to Python,http://docs.python-guide.org
 Y,Config files for scripts,http://wiki.bash-hackers.org/howto/conffile
 Y,Parsing json with Unix tools,http://stackoverflow.com/questions/1955505/parsing-json-with-unix-tools
-N,Git hooks example,http://ryanflorence.com/deploying-websites-with-a-tiny-git-hook/
+Y,Git hooks example,http://ryanflorence.com/deploying-websites-with-a-tiny-git-hook/
 Y,Unison file sync - server-client - via @height8,https://www.cis.upenn.edu/~bcpierce/unison/index.html
 Y,Raspberry Pi backups,https://www.raspberrypi.org/documentation/linux/filesystem/backup.md
-N,Git credential helper,https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage
+Y,Git credential helper,https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage
 Y,lftp.yar.ru,http://lftp.yar.ru/
-N,How To Use Rsync to Sync Local and Remote Directories on a VPS,https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps
+Y,How To Use Rsync to Sync Local and Remote Directories on a VPS,https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps
 Y,Shebang (Unix),https://en.m.wikipedia.org/wiki/Shebang_(Unix)
-N,Apache web server on a Raspberry Pi,https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
-N,Password protected pages with Jekyll,https://flohei.de/blog/password-protected-pages-with-jekyll
+Y,Apache web server on a Raspberry Pi,https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
+Y,Password protected pages with Jekyll,https://flohei.de/blog/password-protected-pages-with-jekyll
 Y,ADN conversation and thread re. self-hosted blog & protected journal - @jnm,https://posts.app.net/67676679
 Y,Git reference,http://gitref.org/
 Y,Filezilla FTP command line,https://wiki.filezilla-project.org/Command-line_arguments_(Client)
