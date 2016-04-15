@@ -27,7 +27,7 @@ No.
 
 16" neck.  40" chest.  Still short-of-leg though; that and the waist measurement remain mine.
 
-I'm thankful no fly-on-the-wall documentary team was shadowing g me that day; to see me first manfully then not-quite so manfully struggling with that obviously too-small-for-me shirt, first to fail to pull the sleeved up my arms, then to fail to fasten any buttons…  And then to spend the longest 2 minutes of my life attempting (and finally succeeding right at the point my sense of reason was screaming at me to shout downstairs) to inch first one then the other sleeve down…
+I'm thankful no fly-on-the-wall documentary team was shadowing me that day; to see me first manfully then not-quite so manfully struggling with that obviously too-small-for-me shirt, first to fail to pull the sleeved up my arms, then to fail to fasten any buttons…  And then to spend the longest 2 minutes of my life attempting (and finally succeeding right at the point my sense of reason was screaming at me to shout downstairs) to inch first one then the other sleeve down…
 
 No longer Medium.
 
