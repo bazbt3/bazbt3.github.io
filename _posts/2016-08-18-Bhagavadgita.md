@@ -13,7 +13,7 @@ This evening I feel bad, something of a pale shadow of the man.  Clearing some l
 
 Now it must be said, I carried on clearing the growth and disturbed another small frog.  Then another.  Three unique frogs, with one thing in common…
 
-Today a human, the same human who'd previously followed their lives to flourish undisturbed, arrived with a big chopper and casually destroyed their habitat.
+Today a human, the same human who'd previously allowed their lives to flourish undisturbed, arrived with a big chopper and casually destroyed their habitat.
 
 ---
 
