@@ -17,7 +17,7 @@ This year (hopefully the foundation for next) my girls got dressed, applied make
 
 I'm sure my two brought genuine pleasure to at least 2 households others had passed by, it was really great to see.
 
-Amd to think this curmudgeon didn't want to go out, to be sociable.  Indeed I'd been dreading it all day.
+And to think this curmudgeon didn't want to go out, to be sociable.  Indeed I'd been dreading it all day.
 
 Eeeee, when I were a lad we never had owt worth mentioning.  We got wood once a year and…
 
