@@ -3,7 +3,7 @@ layout: post
 title: 'Patch: a sequel'
 ---
 
-Earlier this year I wrote about my favourite film,' Armageddon'.  If you scroll back through the archive of my posts 'Patch' is easy to find.  Now might be a good time to scroll; I think it is about time I explained why that ragged, singed, bit of cloth - the patch - means so much to me.  And why I cried at the end of the film.
+Earlier this year I wrote about my favourite film, 'Armageddon'.  If you scroll back through the archive of my posts 'Patch' is easy to find.  Now might be a good time to scroll; I think it is about time I explained why that ragged, singed, bit of cloth - the patch - means so much to me.  And why I cried at the end of the film.
 
 Vanishingly-small numbers of people have ventured into space, more have helped make their passage safe by testing, retesting, and doing it over and over again so the chance of failure is reduced.
 
