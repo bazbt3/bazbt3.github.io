@@ -3,7 +3,7 @@ layout: post
 title: Normalised
 ---
 
-2016 has been a year of downs, and the potential for more of the same for the foreseeable future.  2017 isn't likely to bring much in the way of relief, and I've already pretty-much written off the entire remaining noughties.
+2016 has been a year of downs, and the potential for more of the same for the foreseeable future.  2017 isn't likely to bring much in the way of relief, and I've already pretty-much written off the entire remaining noughtie-tens.
 
 In no particular order:
 
