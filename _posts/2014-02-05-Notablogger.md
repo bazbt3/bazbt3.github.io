@@ -14,7 +14,3 @@ I don't write for an audience.
 Though this statement is demonstrably not true given the fact that my new posts automatically notify a couple of social networks and I've an RSS feed, the only clarification I can give is this: I don't write for a *big* audience.
 
 Hello.
-
----
-
-This post first aired 5 February 2014.

@@ -18,7 +18,3 @@ Oh the irony of a thing supposed to shift smells evoking a memory of one so diff
 This handwash alone hasn't just resurrected *one* memory, oh no. If I had a suitable metaphor to describe the oddness of what I'm feeling right now I'd use it. One after another, recollections are cascading towards me and, for the most part, they're good.
 
 Just one thing stands out though - looking back it appears my dad really didn't understand my left-handedness.
-
----
-
-This post first aired 14 October 2014.
