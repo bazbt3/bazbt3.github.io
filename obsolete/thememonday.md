@@ -1,6 +1,7 @@
 ---
 layout: page
 title: '#ThemeMonday'
+permalink: /thememonday/
 ---
 
 ### What?
