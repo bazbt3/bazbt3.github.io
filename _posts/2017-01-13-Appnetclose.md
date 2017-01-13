@@ -46,4 +46,4 @@ I am @bazbt3 both on [10Centuries.org](https://10centuries.org/) (Jason Irwin's 
 
 ---
 
-* Let's just say I popularised them, albeit in a limited manner.
+*Let's just say I popularised them, albeit in a limited manner.
