@@ -115,7 +115,7 @@ I can go S, E?
 
 ---
 
-[@matigo]: @awanicka hmm … sounds like you need a snoring puppy. When I can't sleep, I just listen to Nozomi who's on the floor next to my bed. I'm out like a light within 60 seconds :)
+**matigo**: @awanicka hmm … sounds like you need a snoring puppy. When I can't sleep, I just listen to Nozomi who's on the floor next to my bed. I'm out like a light within 60 seconds :)
 
 // @bazbt3 @mlv
 
@@ -477,7 +477,7 @@ open door, go E
 
 ---
 
-[@hutattedonmyarm]: @mlv You have been eaten by a Gru.
+**hutattedonmyarm**: @mlv You have been eaten by a Gru.
 
 // @bazbt3
 
@@ -524,7 +524,7 @@ I can go N, S, W.
 
 ---
 
-[@hutattedonmyarm]: @mlv How could I resist?
+**hutattedonmyarm**: @mlv How could I resist?
 
 // @bazbt3
 
@@ -939,7 +939,7 @@ I can go E, S, W.
 
 ---
 
-[@joeo10]: @mlv @bazbt3 You both sound like Elmer Fudd.
+**joeo10**: @mlv @bazbt3 You both sound like Elmer Fudd.
 
 -- [2015-09-25T20:50:18Z](https://alpha.app.net/joeo10/post/65022667)
 
@@ -1098,7 +1098,7 @@ I can go N, E, W.
 
 ---
 
-[@tomcat]: @mlv @bazbt3 CHIIIIICKENS https://www.youtube.com/watch?v=V6sSlmvXp4Y
+**tomcat**: @mlv @bazbt3 CHIIIIICKENS https://www.youtube.com/watch?v=V6sSlmvXp4Y
 
 -- [2015-09-28T11:24:41Z](https://alpha.app.net/tomcat/post/65074177)
 
@@ -1227,7 +1227,7 @@ Can I use that here? Pleeeeease? (flutters) @mlv
 
 ---
 
-[@johngordon]: @joanna And I just saw it today. Whoa. Yeah, need treeview.
+**johngordon**: @joanna And I just saw it today. Whoa. Yeah, need treeview.
 
 -- [2015-09-28T18:18:12Z](https://alpha.app.net/johngordon/post/65082426)
 
@@ -2911,7 +2911,7 @@ There's not much time to get out, the boat's straddling the hole and some water'
 
 ---
 
-[@hybotics]: @bazbt3 "die" is singular, and "dice" is plural. :-)
+**hybotics**: @bazbt3 "die" is singular, and "dice" is plural. :-)
 
 @mlv
 
@@ -3506,7 +3506,7 @@ Take a moment to calm my shattered nerves, extract myself from my makeshift bed 
 
 ---
 
-[@tewha]: @mlv “I thought that was a human leg!” is possibly the best out of context ever. / @bazbt3
+**tewha**: @mlv “I thought that was a human leg!” is possibly the best out of context ever. / @bazbt3
 
 -- [2015-11-04T19:27:27Z](https://alpha.app.net/tewha/post/65880881)
 
@@ -3708,7 +3708,7 @@ One side a table with a curious contraption.
 
 ---
 
-[@duerig]: @mlv That could be dangerous! http://invisiblebread.com/2015/10/new-machine/
+**duerig**: @mlv That could be dangerous! http://invisiblebread.com/2015/10/new-machine/
 
 @bazbt3
 
@@ -4167,7 +4167,7 @@ Take care.
 
 ---
 
-[@mrshaiku]: @bazbt3 @mlv
+**mrshaiku**: @bazbt3 @mlv
 Admirable effort from both of you!
 
 -- [2015-11-12T17:12:04Z](https://alpha.app.net/mrshaiku/post/66033796)
@@ -4766,7 +4766,7 @@ Stealing a locomotive is not something you tend to advertise to everyone within 
 
 ---
 
-[@matigo]: @bazbt3 I've been thinking about making a custom viewer just for this world-building thread …
+**matigo**: @bazbt3 I've been thinking about making a custom viewer just for this world-building thread …
 
 // @mlv
 
@@ -4950,7 +4950,7 @@ Other than tracks there's nothing else here though, apart from a siding South & 
 
 ---
 
-[@jextxadore]: @bazbt3 I love fiddling with levers, but knobs are so much more responsive to my touch. Above all, I like buttons.
+**jextxadore**: @bazbt3 I love fiddling with levers, but knobs are so much more responsive to my touch. Above all, I like buttons.
 
 // @mlv
 
@@ -5562,7 +5562,7 @@ Cosy here.
 
 ---
 
-[@jextxadore]: @bazbt3 Sounds perfect…
+**jextxadore**: @bazbt3 Sounds perfect…
 
 // @mlv
 
@@ -5582,7 +5582,7 @@ Cosy here.
 
 ---
 
-[@jextxadore]: @bazbt3 The post about drinking from the bottle and eating ham :D
+**jextxadore**: @bazbt3 The post about drinking from the bottle and eating ham :D
 
 // @mlv
 
@@ -6134,7 +6134,7 @@ If nothing, then go N
 
 ---
 
-[@hybotics]: @bazbt3 You are both caricatures of your former selves. 😎😝
+**hybotics**: @bazbt3 You are both caricatures of your former selves. 😎😝
 
 @mlv
 
@@ -6156,7 +6156,7 @@ Maybe I'm carrying too much but it really is quite narrow, this passage mouth.
 
 ---
 
-[@hybotics]: @bazbt3 I know much, but not about Elves..
+**hybotics**: @bazbt3 I know much, but not about Elves..
 
 Your question is not relevant..
 
@@ -6203,7 +6203,7 @@ I can go N, E, W.
 
 ---
 
-[@hybotics]: @bazbt3 You seem to have mistaken me for one of my companions, though I do not know how this could happen.. Have you been into the mead?? The last time I was among the Elves, things did not go well, and a quick exit was needed.
+**hybotics**: @bazbt3 You seem to have mistaken me for one of my companions, though I do not know how this could happen.. Have you been into the mead?? The last time I was among the Elves, things did not go well, and a quick exit was needed.
 
 @mlv
 
@@ -7081,13 +7081,13 @@ And what is meant by "Yellow"?
 
 ---
 
-[@c_n]: @bazbt3 @mlv how is Mr Prosser?
+**c_n**: @bazbt3 @mlv how is Mr Prosser?
 
 -- [2016-01-22T19:57:47Z](https://alpha.app.net/c_n/post/67225857)
 
 ---
 
-[@c_n]: @bazbt3 @mlv 🚜
+**c_n**: @bazbt3 @mlv 🚜
 
 -- [2016-01-22T19:59:11Z](https://alpha.app.net/c_n/post/67225893)
 
@@ -8491,7 +8491,7 @@ Boom. Done.
 
 ---
 
-[@grumpy]: @mlv @bazbt3 you assume there is oil, and that the lamp is lit 🃏
+**grumpy**: @mlv @bazbt3 you assume there is oil, and that the lamp is lit 🃏
 
 -- [2016-07-02T16:32:15Z](https://alpha.app.net/grumpy/post/69621520)
 
