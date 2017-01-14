@@ -10,6 +10,8 @@ During late 2015 I happened quite by chance into a conversation about something 
 
 Credit to @mlv for participating *and* saving this 'transcript' and @jnm for creating the Python script to save the thread from App.net.  Apologies if this page took a while to load.
 
+I need to add a link to the map!
+
 Buckle up, here we go!
 
 ---
