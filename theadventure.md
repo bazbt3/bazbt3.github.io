@@ -6,11 +6,7 @@ permalink: /theadventure/
 
 During late 2015 I happened quite by chance into a conversation about something entirely unrelated to the overwhelming majority of what appears below.  See if you can work out what it *is*.
 
----
-
-Credit to @mlv for participating *and* saving this 'transcript' and @jnm for creating the Python script to save the thread from App.net.  Apologies if this page took a while to load.
-
-I need to add a link to the map!
+Credit to @mlv for participating *and* saving this 'transcript' and to @jnm for creating the Python script to save the thread from App.net.  Apologies if this page took a while to load or performs poorly on a mobile device, it's an epic of epic proportions, this!
 
 Buckle up, here we go!
 
@@ -8502,3 +8498,7 @@ Boom. Done.
 ***And there ended the great App.net Adventure.***
 
 (...or *did* it?)
+
+---
+
+I need to add a link to the map!
