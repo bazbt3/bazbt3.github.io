@@ -8501,4 +8501,6 @@ Boom. Done.
 
 ---
 
-I need to add a link to the map!
+## A bonus for your patience:
+
+[A link to the map!](https://www.dropbox.com/s/0o7nsp2j1mh7fok/START%20Bedroom.pdf?dl=0) *(Dropbox.com)*
