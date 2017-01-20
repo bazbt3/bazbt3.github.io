@@ -14,28 +14,27 @@ A simple\* man with a wonderful wife, 2 daughters. Alpha male to Loki cat, Molli
 
 INTJ (hid well.)
 
-I'm [@bazbt3](https://alpha.app.net/bazbt3) on the App.net social network.
+I'm @bazbt3 both on the [10Centuries](https://chat.10centuries.org) social network and on Twitter.
 
 ---
 
 ### Mine:
 
-* Though I'm currently running two in parallel, my *real* blog is at [blog.bt3.com.](http://blog.bt3.com) (Don't worry about the redirect to re-app.net, that's the actual hosting service's URL.
-* I have a [Github.com profile](https://github.com/bazbt3) with a few repositories of my own creation and a couple of [Github gists](https://gist.github.com/bazbt3).
-* I'm unnaturally pleased with the work I've done for the volunteer-created and driven [App.net Wiki](http://appdotnetwiki.net/)
+* Though I'm running two in parallel, my *real* blog is at [blog.bt3.com.](http://blog.bt3.com) (Don't worry about the redirect to 10Centuries.org, that's the actual hosting service's URL.
+* I have a [Github.com profile](https://github.com/bazbt3) with a few repositories of my own creation.
 * My [test site](http://www.bt3.com) - bt3.com, a domain I've owned since 1997!
 
 ---
 
 ### App.net:
 
-* [ThemeMonday](/thememonday/) - a simple premise; a group of like-minded App.net people change their avatars monthly to a chosen theme.
+* I was there, it was great.
 
 ---
 
 ### Others':
 
-* **Blogging:** Jason Irwin's [10Centuries.com](http://10centuries.com/) - my *real* blog host.
+* **Blogging:** Jason Irwin's [10Centuries.org](http://10centuries.org/).
 * **Coding:** [ericdke's](https://github.com/ericdke) [Ayadn] (https://github.com/ericdke/na) App.net command line client. (My ['ayadn_shell'](https://github.com/bazbt3/ayadn_shell) repo's shell script menu ran over it, might still.)
 * **Eating:** [Edward Vielmetti's](https://github.com/vielmetti) [sandwich repo](https://github.com/vielmetti/sandwich) became the inspiration for my [recipes](https://github.com/bazbt3/recipes) repo.
 
@@ -44,7 +43,6 @@ I'm [@bazbt3](https://alpha.app.net/bazbt3) on the App.net social network.
 ### Meta:
 
 * This blog uses the [poole/hyde](https://github.com/poole/hyde) repo as its base.
-* The [App.net Comments Widget](http://blog.app.net/2014/02/13/what-is-the-app-net-comments-widget/) used on pages & posts is by @voidfiles on App.net.
 
 ---
 
