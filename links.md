@@ -34,7 +34,7 @@ I'm @bazbt3 both on the [10Centuries](https://chat.10centuries.org) social netwo
 
 ### Others':
 
-* **Blogging:** Jason Irwin's [10Centuries.org](http://10centuries.org/).
+* **Social, Blogging, Podcasts:** Jason Irwin's [10Centuries.org](http://10centuries.org/).
 * **Coding:** [ericdke's](https://github.com/ericdke) [Ayadn] (https://github.com/ericdke/na) App.net command line client. (My ['ayadn_shell'](https://github.com/bazbt3/ayadn_shell) repo's shell script menu ran over it, might still.)
 * **Eating:** [Edward Vielmetti's](https://github.com/vielmetti) [sandwich repo](https://github.com/vielmetti/sandwich) became the inspiration for my [recipes](https://github.com/bazbt3/recipes) repo.
 
