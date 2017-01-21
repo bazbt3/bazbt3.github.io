@@ -6,7 +6,7 @@ permalink: /thememonday/
 
 ---
 
-App.net was scheduled to close down on March 14 2017.  I took over #ThemeMonday from @berklee and ran it for a while, at least until my life got in the way.  Links below will cease to work, but the memories of the people I interacted with will stay with me forever.
+I took over #ThemeMonday from @berklee and ran it for a while, at least until my life got in the way.  App.net was scheduled to close down on March 14 2017,  so the links below will cease to work, but the memories of the people I interacted with will stay with me forever.
 
 ---
 
