@@ -4,8 +4,6 @@ title: '#ThemeMonday'
 permalink: /thememonday/
 ---
 
----
-
 I took over #ThemeMonday from @berklee and ran it for a while, at least until my life got in the way.  App.net was scheduled to close down on March 14 2017,  so the links below will cease to work, but the memories of the people I interacted with will stay with me forever.
 
 ---
@@ -26,6 +24,19 @@ I took over #ThemeMonday from @berklee and ran it for a while, at least until my
 ---
 
 ### ThemeMonday for the Mondays:
+
+## [ ] **2017 March 13**, the very last chance to do this, so don't forget to tell your friends!  This can run from the time you see this if you wish:
+
+[x] The call to action, [an App.net post](https://alpha.app.net/bazbt3/post/70923748), and my [blog post.](http://bazbt3.10centuries.org/2017/01/21/appnet-thememonday)
+
+[ ] Suggestions from App.net people just like you:
+
+* \#SunsetMonday - @bazbt3
+* \#ReflectionMonday - @maxdavid
+
+[ ] The final vote (hosted/posted somewhere yet to be determined.)
+
+---
 
 ## [x] 2016 February 8:
 
