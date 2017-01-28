@@ -35,6 +35,7 @@ It's the very last chance to do this, so don't forget to tell your friends!  (Th
 * \#SunsetMonday - @bazbt3
 * \#ReflectionMonday - @maxdavid
 * \#GameOverMonday - @blumenkraft
+* \#OpenSeaMonday - @schmidt_fu
 
 [ ] The final vote (hosted/posted somewhere yet to be determined.)
 
