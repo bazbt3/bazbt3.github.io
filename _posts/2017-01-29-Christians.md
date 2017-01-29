@@ -38,7 +38,7 @@ Finally, he believed his government would look after him *personally*, owed him 
 
 In the latter case its probably appropriate to consider the impact of his protest vote personally.  He may need healthcare, may as an ex-serviceman rely on a small income, may be reliant on food stamps…  But the bit that I cannot help thinking of, the simple fact that he was wounded.  His president is on record as stating his utter absence of respect for someone who allowed themselves to be captured and faced years of brutal torture whilst on duty.  So to think oneself special after carelessly allowing the enemy to draw blood?  No, sorry, not worthy.  Here we go, back again to Schadenfreude.
 
-Back for a moment to the notion that Muslims must kill all nonbelievers:  Within the Bible, and the Torah the book of Deuteronomy is easy to find, which implies *wilful* ignorance on the part of pretty much everyone who calls the enrire Muslim world terroristic.
+Back for a moment to the notion that Muslims must kill all nonbelievers:  Within the Bible, and the Torah the book of Deuteronomy is easy to find, which implies *wilful* ignorance on the part of pretty much everyone who calls the entire Muslim world terroristic.
 
 They have my scorn, the time for acceptance in the name of expediency is over.  That's not to say I will not take the time to understand different viewpoints, far from it.  But some causes are hopeless.
 
