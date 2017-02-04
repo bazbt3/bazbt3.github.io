@@ -9,7 +9,8 @@ I've posted recently of the information overload I've experienced since the midd
 
 Constipation is a term I first came across courtesy of `@schmidt_fu` on either 10Centuries.org or pnut.io and it got me thinking.  I *said* I'd think about it, so did.
 
-Constipation:  
+Constipation:
+
 > "irregular and infrequent or difficult evacuation of the bowels; can be a symptom of intestinal obstruction or diverticulitis"  *(Definition from iOS Terminology app.)*
 
 Humans have evolved to consume various edible items (and, for pleasure, some plainly inedible or noxious), to process them and convert  into nutrients, and finally to expel the resultant waste.  Ok, not just humans, pretty-much everything alive on the planet operates in a similar fashion.  What differs between us at the top, and those below us on the food chain, is our insatiable desire to consume, process, and to, er… *talk* about stuff.
@@ -24,7 +25,8 @@ Though we're not in the midst of an actual *wartime*, it'd be fair to say we liv
 
 Chances of it happening?  I think zero.
 
-So, constipation, a recap:  
+So, constipation, a recap:
+
 > "irregular and infrequent or difficult purging of the symptoms of stress brought on by an information overload; can be a symptom of the obstruction of regular thought processes or a response to stimuli outside an individual's sphere of influence".
 
 *My* sphere of influence?
