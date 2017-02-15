@@ -15,7 +15,7 @@ Constipation:
 
 Humans have evolved to consume various edible items (and, for pleasure, some plainly inedible or noxious), to process them and convert  into nutrients, and finally to expel the resultant waste.  Ok, not just humans, pretty-much everything alive on the planet operates in a similar fashion.  What differs between us at the top, and those below us on the food chain, is our insatiable desire to consume, process, and to, er… *talk* about stuff.
 
-Yeah, a bit short of suitable metaphors here; 'constipation' isn't a a bad pinnacle, right?
+Yeah, a bit short of suitable metaphors here; 'constipation' isn't a bad pinnacle, right?
 
 But there's only so far that balancing act between consumption and dissemination can take the average sane person.  *I* gave up where someone with more confidence, more psychopathic tendencies would, has and will, advance further.  I saw the effect on myself of the constant osmosis of facts and figures, and simply didn't like where it would take me.
 
