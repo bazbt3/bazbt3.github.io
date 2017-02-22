@@ -5,7 +5,7 @@ title: 'Pinboard fail'
 
 Well, 3 weeks after paying for a Pinboard.in bookmark tagging and page archiving account, I'm no closer to having the site owner fix the issues I've mentioned.
 
-It's the first time tagging made sense to me, thus disappointing that the failures are imcreasing in scope, tested across a range of operating systems, browsers and apps.
+It's the first time tagging made sense to me, thus disappointing that the failures are increasing in scope, tested across a range of operating systems, browsers and apps.
 
 Archiving hasn't started yet despite multiple promises, full-text search is thus impossible, new tags require multiple refreshes to show up and so bundling is problematic, simple searches fail to find bookmarks *visible on the same page!*  I could go on, but the bottom line is when the site owner repeatedly fails to respond and fails to fix the issues I highlight, I complain about, why should I invest more time in the service?
 
