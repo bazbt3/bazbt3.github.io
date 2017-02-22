@@ -1,0 +1,30 @@
+---
+layout: page
+title: 'Public Bookmarks'
+permalink: /publicbookmarks/
+---
+
+<p>
+  <h3>My bookmarks.</h3>
+</p>
+<p>
+ A bookmark list test. Less stale than my Reading List for now at least.
+</p>
+
+<p>
+  <strong>Unread</strong>/read.
+</p>
+
+<ul>
+  {% for entry in site.data.publicbookmarklist %}
+      <li> 
+        {% if entry.toread == 'yes' %} <strong>{{ entry.description }}:</strong> {% elsif entry.toread == '' %} {{ entry.description}}: {% endif %} <a href="{{ entry.href }}">
+      {{ entry.href }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+<p>
+  (<strong>Data driven page:</strong> a Jekyll & Liquid script formats and publishes the contents of a simple .csv file.)
+</p>
