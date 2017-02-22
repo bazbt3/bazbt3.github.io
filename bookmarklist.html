@@ -16,7 +16,7 @@ permalink: /publicbookmarks/
 </p>
 
 <ul>
-  {% for entry in site.data.publicbookmarklist %}
+  {% for entry in site.data.bookmarklist %}
       <li> 
         {% if entry.toread == 'yes' %} <strong>{{ entry.description }}:</strong> {% elsif entry.toread == '' %} {{ entry.description }}: {% endif %} <a href="{{ entry.link }}">
       {{ entry.link }}
