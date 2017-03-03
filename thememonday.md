@@ -30,7 +30,7 @@ It's the very last chance to do this, so don't forget to tell your friends!  (Th
 
 [x] The call to action, [an App.net post](https://alpha.app.net/bazbt3/post/70923748), and my [blog post.](http://bazbt3.10centuries.org/2017/01/21/appnet-thememonday)
 
-[ ] Suggestions from App.net people just like you:
+[x] Suggestions from App.net people just like you:
 
 * \#SunsetMonday - @bazbt3
 * \#ReflectionMonday - @maxdavid
@@ -38,7 +38,7 @@ It's the very last chance to do this, so don't forget to tell your friends!  (Th
 * \#OpenSeaMonday - @schmidt_fu
 * \#ApocalypseMonday - @c/@cn
 
-[ ] The final vote (hosted/posted somewhere yet to be determined.)
+[-] The final vote (hosted/posted somewhere yet to be determined.)
 
 ---
 
