@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'micro.blog'
+---
 
 There's a social network in the works called micro.blog.  It aims to bridge the gap between microblogging and longform blogging.  Though I as a blogger-of-sorts see promise in the *concept* I didn't back it on Kickstarter.  Nevertheless I t raised over US$80,000 - something like 10x the stated goal?  It'll likely be moderately popular.
 
