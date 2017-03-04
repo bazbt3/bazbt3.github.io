@@ -13,6 +13,8 @@ Laphroaig is a fantastic drink.  It takes time. It's best approached along a lon
 
 Incidentally, my previous Scottish pinnacle, 'Irn Bru' has now, though marginally, been beaten into third place.
 
+[![Laphroaig](/images/Laphroaig.gif)](/images/Laphroaig.gif)
+
 The best summary I've heard of Laphroaig so far from a drinker of blended whiskies: "Ugh, it tastes like medicine!"  *Medicine?* That works for me, and has in the past been an often-used excuse^H^H^H^H^H^Hreason for getting the glass out.  Forget Cask Strength and other marketing ploys designed to extract the unwary buyer's money... The best Laphroaig by a long distance was the 15-year-old, now sadly not marketed.
 
 I was introduced to it (thanks 'Bob' the builder) on a cruise down the Nile.  Transported in so many ways to a more relaxed world (for society's elite of course) and broad as the following statement is, I really cannot think of any combination of 2 things that, when combined, are more redolent of the luxury I imagine existed in the bygone age visitors to Egypt expect to encounter.
