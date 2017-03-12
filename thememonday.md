@@ -38,13 +38,13 @@ It's the very last chance to do this, so don't forget to tell your friends!  (Th
 * \#OpenSeaMonday - @schmidt_fu
 * \#ApocalypseMonday - @c/@cn
 
-[x] [The final vote](http://beta.doodle.com/poll/fwnyw4nb8kv92f4k) (created by @schmidt_fu.)
+[x] [The final vote](http://beta.doodle.com/poll/fwnyw4nb8kv92f4k) (created by @schmidt_fu.) Nothing itr Hilary going in there, no, nope. :)
 
-[ ] To be called.
+[x] Called officially by @schmidt_fu 2017-03-12.
 
 **The last-ever \#ThemeMonday - on March 13th 2017 is:**
 
-## #(t.b.a.)!
+## #ApocalypseMonday!
 
 Don't forget to tell your friends!
 
