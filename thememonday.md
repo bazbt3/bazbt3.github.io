@@ -25,7 +25,7 @@ I took over #ThemeMonday from @berklee and ran it for a while, at least until my
 
 ### ThemeMonday for the Mondays:
 
-## [ ] 2017 March 13:  
+## [X] 2017 March 13:  
 It's the very last chance to do this, so don't forget to tell your friends!  (This can run from the time you see this if you wish.)
 
 [x] The call to action, [an App.net post](https://alpha.app.net/bazbt3/post/70923748), and my [blog post.](http://bazbt3.10centuries.org/2017/01/21/appnet-thememonday)
@@ -44,7 +44,7 @@ It's the very last chance to do this, so don't forget to tell your friends!  (Th
 
 **The last-ever \#ThemeMonday - on March 13th 2017 is:**
 
-## #ApocalypseMonday!
+## \#ApocalypseMonday!
 
 Don't forget to tell your friends!
 
