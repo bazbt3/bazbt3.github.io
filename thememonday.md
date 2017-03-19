@@ -4,13 +4,13 @@ title: '#ThemeMonday'
 permalink: /thememonday/
 ---
 
-I took over #ThemeMonday from @berklee and ran it for a while, at least until my life got in the way.  App.net was scheduled to close down on March 14 2017,  so the links below will cease to work, but the memories of the people I interacted with will stay with me forever.
+I took over App.net's #ThemeMonday from @berklee and ran it for a while, at least until my life got in the way.  App.net closed down on March 16 2017 so most links below will cease to work, but the memories of the people I interacted with will stay with me forever.
 
 ---
 
 ### What?
 
-[\#ThemeMonday](https://alpha.app.net/hashtags/thememonday) (live hashtag) on App.net had a simple premise; a group of like-minded people changed their avatars on or around the second Monday of every month, to a theme chosen by them after shortlisting and then a vote.
+[**\#ThemeMonday**](https://noodle.s3rv.com/#/#/tagged/ThemeMonday) (live *pnut.io* hashtag) has a simple premise; a group of like-minded people change their avatars on or around the second Monday of every month, to a theme chosen by them after shortlisting and then a vote.
 
 ### Tentative timeline, rule:
 (Starting a week prior.)
@@ -19,7 +19,7 @@ I took over #ThemeMonday from @berklee and ran it for a while, at least until my
 2. Thursday evening: Create poll,
 3. Saturday evening/Sunday morning: Announce result!
 
-* In the event of a tiebreaker being necessary I shall send a PM to @mlv's [Eliza_Bot](https://alpha.app.net/eliza_bot) asking her to `roll 1dn` (where n is the number of tying choices.)
+* In the event of a tiebreaker being necessary I sent a PM to @mlv's [Eliza_Bot](https://alpha.app.net/eliza_bot) asking her to `roll 1dn` (where n is the number of tying choices.)
 
 ---
 
