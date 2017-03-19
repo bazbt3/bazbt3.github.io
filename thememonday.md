@@ -10,7 +10,7 @@ I took over App.net's #ThemeMonday from @berklee and ran it for a while, at leas
 
 ### What?
 
-[**\#ThemeMonday**](https://noodle.s3rv.com/#/#/tagged/ThemeMonday) (live *pnut.io* hashtag) has a simple premise; a group of like-minded people change their avatars on or around the second Monday of every month, to a theme chosen by them after shortlisting and then a vote.
+[**\#ThemeMonday**](https://noodle.s3rv.com/#/#/tagged/ThemeMonday) (live [*pnut.io Noodle web app*](https://pnut.io/apps/id/fDBcPscBqu3Ce-R-RWXVzgi0yjaEg_vH) hashtag) has a simple premise; a group of like-minded people change their avatars on or around the second Monday of every month, to a theme chosen by them after shortlisting and then a vote.
 
 ### Tentative timeline, rule:
 (Starting a week prior.)
