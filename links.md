@@ -14,13 +14,13 @@ A simple\* man with a wonderful wife, 2 daughters. Alpha male to Loki cat, Molli
 
 INTJ (hid well.)
 
-I'm @bazbt3 both on the [10Centuries](https://chat.10centuries.org) social network and on Twitter.
+I'm @bazbt3 on the [10Centuries](https://10centuries.org) and [pnut.io](https://pnut.io) social networks, and on Twitter.
 
 ---
 
 ### Mine:
 
-* Though I'm running two in parallel, my *real* blog is at [blog.bt3.com.](http://blog.bt3.com) (Don't worry about the redirect to 10Centuries.org, that's the actual hosting service's URL.
+* Though I'm running two in parallel, my *real* blog is at [blog.bt3.com.](http://blog.bt3.com) (Don't worry about the redirect to 10Centuries.org, that's the actual hosting service's URL.)
 * I have a [Github.com profile](https://github.com/bazbt3) with a few repositories of my own creation.
 * My [test site](http://www.bt3.com) - bt3.com, a domain I've owned since 1997!
 
@@ -32,11 +32,17 @@ I'm @bazbt3 both on the [10Centuries](https://chat.10centuries.org) social netwo
 
 ---
 
-### Others':
+### After App.net (ADN):
 
-* **Social, Blogging, Podcasts:** Jason Irwin's [10Centuries.org](https://10centuries.org/).
-* **Coding:** [ericdke's](https://github.com/ericdke) [Ayadn] (https://github.com/ericdke/na) App.net command line client. (My ['ayadn_shell'](https://github.com/bazbt3/ayadn_shell) repo's shell script menu ran over it, might still.)
-* **Eating:** [Edward Vielmetti's](https://github.com/vielmetti) [sandwich repo](https://github.com/vielmetti/sandwich) became the inspiration for my [recipes](https://github.com/bazbt3/recipes) repo.
+* [My 10Centuries.org Wiki](http://10cwiki.bt3.com)
+* [My pnut.io Wiki](http://pnutwiki.bt3.com)
+* [Post-ADN bookmarks](http://adn2.bt3.com)
+
+---
+
+### Links:
+
+* [A collection of links.](http://bookmarks.bt3.com) - Disparate, eclectic, but with a semblance of structure. *(Redirects to Pinboard.in.)*
 
 ---
 
