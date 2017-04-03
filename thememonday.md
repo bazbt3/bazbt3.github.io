@@ -5,7 +5,7 @@ permalink: /thememonday/
 ---
 
 ### What is \#ThemeMonday?
-[**\#ThemeMonday**]([\#ThemeMonday](https://pnut.io/tags/ThemeMonday) *(live hashtag at pnut.io)* has a simple premise; a group of like-minded people change their avatars on or around the second Monday of every month, to a theme chosen by them after shortlisting and then a vote.
+[**\#ThemeMonday**](https://pnut.io/tags/ThemeMonday) *(live hashtag at pnut.io)* has a simple premise; a group of like-minded people change their avatars on or around the second Monday of every month, to a theme chosen by them after shortlisting and then a vote.
 
 ### Approximate timeline, rule:
 (Starting a week prior.)
