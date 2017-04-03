@@ -34,8 +34,9 @@ permalink: /thememonday/
 [ ] Suggestions from App.net people just like you:
 
 * \#BabyPicsMonday - (@formfireglass, to commemorate the first-ever App.net event.)
-* \#SolidColoursMonday - (@i70dan, it will look awesome.)
-* \#ProperStrongMonday (@schmidt_fu, to honour a phenomenon new to this social network. May include strong colors, persons, food and what else you can imagine.)
+* \#SolidColoursMonday - (@i70dan, 'it will look awesome.')
+* \#ProperStrongMonday (@schmidt_fu, 'to honour a phenomenon new to this social network. May include strong colors, persons, food and what else you can imagine.')
+* \#StartingOverMonday (@blumenkraft, forward-thinking.)
 * \#more (by)
 
 [ ] The final vote. (We need a poll site, the last was at doodle.com.)
