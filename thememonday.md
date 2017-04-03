@@ -34,6 +34,7 @@ permalink: /thememonday/
 [ ] Suggestions from App.net people just like you:
 
 * \#BabyPicsMonday - (@formfireglass, to commemorate the first-ever App.net event.)
+* \#SolidColoursMonday - (@i70dan, it will indeed look awesome.
 * \#more (by)
 
 [ ] The final vote. (We need a poll site, the last was at doodle.com.)
