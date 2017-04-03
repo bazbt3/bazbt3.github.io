@@ -4,26 +4,51 @@ title: '#ThemeMonday'
 permalink: /thememonday/
 ---
 
-I took over App.net's #ThemeMonday from @berklee and ran it for a while, at least until my life got in the way.  App.net closed down on March 16 2017 so most links below will cease to work, but the memories of the people I interacted with will stay with me forever.
+### What is \#ThemeMonday?
+[**\#ThemeMonday**]([\#ThemeMonday](https://pnut.io/tags/ThemeMonday) *(live hashtag at pnut.io)* has a simple premise; a group of like-minded people change their avatars on or around the second Monday of every month, to a theme chosen by them after shortlisting and then a vote.
 
----
-
-### What?
-
-[**\#ThemeMonday**](https://noodle.s3rv.com/#/#/tagged/ThemeMonday) (live [*pnut.io Noodle web app*](https://pnut.io/apps/id/fDBcPscBqu3Ce-R-RWXVzgi0yjaEg_vH) hashtag) has a simple premise; a group of like-minded people change their avatars on or around the second Monday of every month, to a theme chosen by them after shortlisting and then a vote.
-
-### Tentative timeline, rule:
+### Approximate timeline, rule:
 (Starting a week prior.)
 
 1. Weekend: Ask for suggestions,
 2. Thursday evening: Create poll,
 3. Saturday evening/Sunday morning: Announce result!
 
-* In the event of a tiebreaker being necessary I sent a PM to @mlv's [Eliza_Bot](https://alpha.app.net/eliza_bot) asking her to `roll 1dn` (where n is the number of tying choices.)
+* In the event of a tiebreaker being necessary @bazbt3 will roll a die.
 
 ---
 
-### ThemeMonday for the Mondays:
+## History:
+* Originally proposed by @alicia and ably implemented and run by @berklee, [\#ThemeMonday](http://bazbt3.github.io/thememonday/) *(an ADN Wiki page)* was indisputably App.net's most popular regular event.  @bazbt3 took over from @berklee and ran it for a while.  App.net closed down on March 16 2017 so most links below will cease to work, but the memories of all participants will undoubtedly remain with them forever.
+* In the event of a tiebreaker being necessary, @bazbt3 previously sent a PM to @mlv's [Eliza_Bot](https://alpha.app.net/eliza_bot) asking her to `roll 1dn` (where `n` was the number of tying choices.)
+
+---
+
+## ThemeMonday for the Mondays:
+
+## [ ] 2017 April 10:  
+**It's the very first chance to do this post-App.net**, so don't forget to tell your friends!
+
+[ ] The call to action, (post), and my (blog post.)
+
+[ ] Suggestions from App.net people just like you:
+
+* \#t.b.a - (proposed by)
+
+[ ] The final vote. (We need a poll site, the last was at doodle.com.)
+
+[ ] Called officially by t.b.a. on (date).
+
+**The first-ever** ***post-App.net*** **\#ThemeMonday - on April 10th 2017 is:**
+
+## \#t.b.a.!
+
+Don't forget to tell your friends!
+
+---
+
+# The App.net era:
+Note, this is only a *tiny* selection of a the events.
 
 ## [X] 2017 March 13:  
 **It's the very last chance to do this on App.net**, so don't forget to tell your friends!  (This can run from the time you see this if you wish.)
@@ -38,11 +63,11 @@ I took over App.net's #ThemeMonday from @berklee and ran it for a while, at leas
 * \#OpenSeaMonday - @schmidt_fu
 * \#ApocalypseMonday - @c/@cn
 
-[x] [The final vote](http://beta.doodle.com/poll/fwnyw4nb8kv92f4k) (created by @schmidt_fu.) Nothing itr Hilary going in there, no, nope. :)
+[x] [The final vote](http://beta.doodle.com/poll/fwnyw4nb8kv92f4k) (created by @schmidt_fu.) Nothing irregular going on there, no, nope. :)
 
 [x] Called officially by @schmidt_fu 2017-03-12.
 
-**The last-ever \#ThemeMonday - on March 13th 2017 is:**
+**The last-ever** ***App.net*** **\#ThemeMonday - on March 13th 2017 is:**
 
 ## \#ApocalypseMonday!
 
