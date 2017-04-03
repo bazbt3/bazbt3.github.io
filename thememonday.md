@@ -29,7 +29,7 @@ permalink: /thememonday/
 ## [ ] 2017 April 10:  
 **It's the very first chance to do this post-App.net**, so don't forget to tell your friends!
 
-[ ] The call to action, (post), and my (blog post.)
+[x] The call to action, [a pnut_io post](https://posts.pnut.io/62575), and my (blog post.)
 
 [ ] Suggestions from App.net people just like you:
 
