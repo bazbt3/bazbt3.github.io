@@ -67,7 +67,7 @@ Note, this is only a *tiny* selection of a the events.
 
 [x] Called officially by @schmidt_fu 2017-03-12.
 
-**The last-ever** ***App.net*** **\#ThemeMonday - on March 13th 2017 is:**
+**The last-ever App.net \#ThemeMonday - on March 13th 2017 is:**
 
 ## \#ApocalypseMonday!
 
