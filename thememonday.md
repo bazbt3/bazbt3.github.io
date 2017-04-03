@@ -33,7 +33,8 @@ permalink: /thememonday/
 
 [ ] Suggestions from App.net people just like you:
 
-* \#t.b.a - (proposed by)
+* \#BabyPicsMonday - (@formfireglass, to commemorate the first-ever App.net event.)
+* \#more (by)
 
 [ ] The final vote. (We need a poll site, the last was at doodle.com.)
 
