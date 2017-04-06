@@ -31,16 +31,15 @@ permalink: /thememonday/
 
 [x] The call to action, [a pnut_io post](https://posts.pnut.io/62575), and my (blog post.)
 
-[ ] Suggestions from App.net people just like you:
+[x] Suggestions from App.net people just like you:
 
 * \#BabyPicsMonday - (@formfireglass, to commemorate the first-ever App.net event.)
 * \#SolidColoursMonday - (@i70dan, 'it will look awesome.')
 * \#ProperStrongMonday (@schmidt_fu, 'to honour a phenomenon new to this social network. May include strong colors, persons, food and what else you can imagine.')
 * \#StartingOverMonday (@blumenkraft, forward-thinking.)
 * \#PnutMonday (@cano '(aka PeanutMonday)')
-* \#more (by)
 
-[ ] The final vote. (We need a poll site, the last was at doodle.com.)
+[x] [**The vote is now up**, posted at Doodle.com.](https://beta.doodle.com/poll/rb5tnuggpx5ph2ry#table) Go vote, go right now!
 
 [ ] Called officially by t.b.a. on (date).
 
