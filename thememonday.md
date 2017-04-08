@@ -14,7 +14,7 @@ permalink: /thememonday/
 2. Thursday evening: Create poll,
 3. Saturday evening/Sunday morning: Announce result!
 
-* In the event of a tiebreaker being necessary @bazbt3 will roll a die.
+See also the Byelaws at the foot of this document.
 
 ---
 
@@ -129,3 +129,7 @@ Don't forget to tell your friends!
 Have fun with it everyone!
 
 ---
+
+### Byelaws:
+1. In the event of a tiebreaker being necessary @bazbt3 will roll a die.  To be determined due to location-based constraints: whether a physical, electronic or totally imaginary die will be utilised.
+2. Effective theme recycling strategies are one key to success; participants tend to guide suggestions away from those already chosen for \#ThemeMondays.  However, dependence on e.g. world events, the seasons, nostalgia, etc.; all of these preclude the setting of formal rules.
