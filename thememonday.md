@@ -39,7 +39,7 @@ See also the Byelaws at the foot of this document.
 * \#StartingOverMonday (@blumenkraft, forward-thinking.)
 * \#PnutMonday (@cano '(aka PeanutMonday)')
 
-[x] [**The vote**, posted at Doodle.com.](https://beta.doodle.com/poll/rb5tnuggpx5ph2ry#table) including vote history.  Here's [*a link to* a voting history graph.](https://cdn.10centuries.org/u8sUjL/095c21ebd4434232b901547c83416045.)
+[x] [**The poll**, posted at Doodle.com.](https://beta.doodle.com/poll/rb5tnuggpx5ph2ry#table) including voting history.  Here's [*a link to* a voting history graph.](https://cdn.10centuries.org/u8sUjL/095c21ebd4434232b901547c83416045.)
 
 [x] Called officially by @bazbt3 on April 9th 2017.
 
