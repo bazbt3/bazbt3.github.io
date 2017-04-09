@@ -26,10 +26,10 @@ See also the Byelaws at the foot of this document.
 
 ## ThemeMonday for the Mondays:
 
-## [ ] 2017 April 10:  
+## [X] 2017 April 10:  
 **It's the very first chance to do this post-App.net**, so don't forget to tell your friends!
 
-[x] The call to action, [a pnut_io post](https://posts.pnut.io/62575), and my (blog post.)
+[x] The call to action, [a pnut_io post.](https://posts.pnut.io/62575)
 
 [x] Suggestions from App.net people just like you:
 
@@ -39,16 +39,17 @@ See also the Byelaws at the foot of this document.
 * \#StartingOverMonday (@blumenkraft, forward-thinking.)
 * \#PnutMonday (@cano '(aka PeanutMonday)')
 
-[x] [**The vote is now up**, posted at Doodle.com.](https://beta.doodle.com/poll/rb5tnuggpx5ph2ry#table) Go vote, go right now!
+[x] [**The vote**, posted at Doodle.com.](https://beta.doodle.com/poll/rb5tnuggpx5ph2ry#table) including vote history.  Here's [*a link to* a voting history graph.](https://cdn.10centuries.org/u8sUjL/095c21ebd4434232b901547c83416045.)
 
-[ ] Called officially by t.b.a. on (date).
+[x] Called officially by @bazbt3 on April 9th 2017.
 
 **The first-ever** ***post-App.net*** **\#ThemeMonday - on April 10th 2017 is:**
 
-## \#t.b.a.!
+## \#PnutMonday!
 
 Don't forget to tell your friends!
 
+---
 ---
 
 # The App.net era:
