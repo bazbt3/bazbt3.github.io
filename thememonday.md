@@ -47,7 +47,7 @@ See also the Byelaws at the foot of this document.
 
 ## \#PnutMonday!
 
-Don't forget to tell your friends!
+Don't forget to tell your friends!  If you're short of ideas there's a [list compiled for the winning entry.](https://gist.github.com/bazbt3/6b8607ad9ea5d98c374422c7c711dbbf)
 
 ---
 ---
