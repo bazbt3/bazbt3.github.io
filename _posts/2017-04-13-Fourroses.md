@@ -9,6 +9,6 @@ Despite my long-winded, ultimately negative review of 'Maker's Mark' I really en
 
 Ok, I've had one from each of the 3 groups in [this Ask Men article.](http://uk.askmen.com/fine_living/wine_dine_archive_300/384_bourbon-cheat-sheet.html)  The old Turner palate favoured one from the 'high rye' group so what's where I'm heading again.  Thanks to whoever suggested the 'Woodford Reserve' but it's unavailable here this evening on Amazon Prime Now.
 
-Somewhere between 10pm and midnight today the doorbell will ring and my delivery of Four Roses Single Barrel whiskey, and cat food, will be handed over.  After, that is, I prove that I'm an adult by scrawling my digital signature on the deliverer' phone.
+Somewhere between 10pm and midnight today the doorbell will ring and my delivery of Four Roses Single Barrel whiskey, and cat food, will be handed over.  After, that is, I prove that I'm an adult by scrawling my digital signature on the deliverer's phone.
 
 Ahhh… convenience.
