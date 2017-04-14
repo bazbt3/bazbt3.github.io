@@ -26,6 +26,26 @@ See also the Byelaws at the foot of this document.
 
 ## ThemeMonday for the Mondays:
 
+## [ ] 2017 May 8:  
+**The second chance to do this post-App.net**, so don't forget to tell your friends!
+
+[ ] The call to action, a post.
+
+[ ] Suggestions from App.net people just like you:
+* \#BirdCam1Monday - (@unixb0y, 'everyone chooses [a] favourite bird.')
+
+[ ] **The poll**, possibly posted at Doodle.com again.
+
+[ ] Called officially by @???.
+
+**The second-ever** ***post-App.net*** **\#ThemeMonday - on May 8th 2017 is:**
+
+## \#???!
+
+Don't forget to: tell your friends, add the \#ThemeMonday hashtag when you change avatar!
+
+---
+
 ## [X] 2017 April 10:  
 **It's the very first chance to do this post-App.net**, so don't forget to tell your friends!
 
