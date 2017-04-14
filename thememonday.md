@@ -33,6 +33,7 @@ See also the Byelaws at the foot of this document.
 
 [ ] Suggestions from App.net people just like you:
 * \#BirdCam1Monday - (@unixb0y, 'everyone chooses [a] favourite bird.') Search for the [\#BirdCam1 hashtag](https://pnut.io/tags/BirdCam1) for inspiration.)
+* \#FavouriteBirdMonday - (@Andrew, commenting on the above, not sure there'll be enough to go around.)
 
 [ ] **The poll**, possibly posted at Doodle.com again.
 
