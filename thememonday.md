@@ -32,7 +32,7 @@ See also the Byelaws at the foot of this document.
 [ ] The call to action, a post.
 
 [ ] Suggestions from App.net people just like you:
-* \#BirdCam1Monday - (@unixb0y, 'everyone chooses [a] favourite bird.')
+* \#BirdCam1Monday - (@unixb0y, 'everyone chooses [a] favourite bird.') Search for the [\#BirdCam1 hashtag](https://pnut.io/tags/BirdCam1) for inspiration.)
 
 [ ] **The poll**, possibly posted at Doodle.com again.
 
