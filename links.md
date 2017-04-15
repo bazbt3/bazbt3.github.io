@@ -28,14 +28,14 @@ I'm @bazbt3 on the [10Centuries](https://10centuries.org) and [pnut.io](https://
 
 ### App.net:
 
-* I was there, it was great.
+* I was there, it was great.  [App.net Wiki](http://adnwiki.bt3.com)
 
 ---
 
 ### After App.net (ADN):
 
-* [My 10Centuries.org Wiki](http://10cwiki.bt3.com)
-* [My pnut.io Wiki](http://pnutwiki.bt3.com)
+* [10Centuries.org Wiki](http://10cwiki.bt3.com)
+* [pnut.io Wiki](http://pnutwiki.bt3.com)
 * [Post-ADN bookmarks](http://adn2.bt3.com)
 
 ---
