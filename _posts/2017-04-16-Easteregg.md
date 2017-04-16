@@ -1,6 +1,6 @@
 ---
 layout: post
-title 'Easter egg'
+title: 'Easter egg'
 ---
 
 The Trumps flew to Florida on Friday, [in separate jets.](https://www.queerty.com/donald-melania-fly-separate-taxpayer-funded-planes-20170414)  Its looking as though [they'll miss the annual Easter Egg Roll](https://www.queerty.com/easter-white-house-ruined-thanks-melania-trump-sad-20170412), a 138-year-old tradition, will be somewhat curtailed in scope.  A shame.
