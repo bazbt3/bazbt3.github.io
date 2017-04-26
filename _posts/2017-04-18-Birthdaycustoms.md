@@ -1,6 +1,6 @@
 ---
 layout: post
-title 'Birthday customs'
+title: 'Birthday customs'
 ---
 
 I had a birthday recently.  Nothing special, aside from to those colleagues who remembers my 'special day' and who didn't receive the cakes and biscuits it's customary to provide.
