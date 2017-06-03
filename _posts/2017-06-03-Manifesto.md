@@ -11,6 +11,6 @@ Labour comes a close second, their Manifesto document alternatives don't include
 
 The Conservatives attitude to inclusiveness is ably shown by the single PDF download and oddly-sized inline document viewer.
 
-One final point, none of the three include languages other than English.  Maybe I missed something but maybe, just maybe, people that come here from foreign lands are better at integration that native Brits will ever be.
+One final point, none of the three include languages other than English.  Maybe I missed something but maybe, just maybe, people that come here from foreign lands are better at integration than native Brits will ever be.
 
 On the eve of the Brexit vote I urged people who'd never done so before to vote, to vote whichever way their consciences told them to.  This time around the ones who voted to leave Europe, if not voting Liberal Democrat, can get fu
