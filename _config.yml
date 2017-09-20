@@ -11,7 +11,7 @@ description:      '…powered by empathy & Schadenfreude.'
 
 name:             '@bazbt3'
 url:               http://bazbt3.github.io
-baseurl:          /bazbt3.github.io/
+baseurl:          https://bazbt3.github.io/
 
 author:
   name:           'Barrie Turner'
