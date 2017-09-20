@@ -18,6 +18,8 @@ I'm @bazbt3 on the [10Centuries](https://10centuries.org) and [pnut.io](https://
 
 ---
 
+*** Links below may fail dependent on ISP connection. Will fix. ***
+
 ### Mine:
 
 * Though I'm running two in parallel, my *real* blog is at [blog.bt3.com.](http://blog.bt3.com) (Don't worry about the redirect to 10Centuries.org, that's the actual hosting service's URL.)
