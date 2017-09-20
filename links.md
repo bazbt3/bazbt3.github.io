@@ -18,7 +18,7 @@ I'm @bazbt3 on the [10Centuries](https://10centuries.org) and [pnut.io](https://
 
 ---
 
-*** Links below may fail dependent on ISP connection. Will fix. ***
+## Links below may fail dependent on ISP connection. Will fix.
 
 ### Mine:
 
