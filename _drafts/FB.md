@@ -25,4 +25,6 @@ Not at all confusing is it.
 
 **Gibberish**
 
-Your friends and their friends will often post absolute nonsense, which your friends will share to be sociable, but Snopes cannot usually be used to check what they're been eating, drinking, and where.  You should visit [Snopes.com](https://www.snopes.com/) for fact checking events or stories vaguely related to domestic of world events.  Bearing in mind it's a US site with a bias towards that country, it's nonetheless *useful* for the big stuff.
+You should visit [Snopes.com](https://www.snopes.com/) for fact checking events or stories vaguely related to domestic of world events.  Bearing in mind it's a US site with a bias towards that country, it's nonetheless *useful* for the big stuff.
+
+Why?  Your friends and their friends will often post absolute nonsense, which your friends will share to be sociable, but Snopes cannot usually be used to check what they're been eating, drinking, and where.  It *can* be used to inquire about scams (e.g. [Mobile Phone Rates At £50 A Minute!!!](https://www.snopes.com/fact-check/mobile-phone-scam/)) or feel-good stories which seem too good to be true, (e.g. [Daisy The Dog Rescued 9/11 Survivors... awww.](https://www.snopes.com/fact-check/daisy-dog-rescued-911-survivors/))
