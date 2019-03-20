@@ -24,18 +24,3 @@ layout: default
     {% endfor %}
   </ul>
 </div>
-
-<ul>
-
-In case you want to give me some feedback:
-
-<form method="POST" action="https://api.staticman.net/v2/entry/bazbt3/bazbt3.github.io/master/comments">
-  <!-- <input name="options[redirect]" type="hidden" value="https://my-site.com"> -->
-  <!-- e.g. "2016-01-02-this-is-a-post" -->
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-  <label>Name<input name="fields[name]" type="text"></label>
-  <!-- <label><input name="fields[email]" type="email">E-mail</label> -->
-  <label>Message<textarea name="fields[message]" rows="10" cols="30"></textarea></label>
-  
-  <button type="submit">Go!</button>
-</form>
