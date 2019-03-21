@@ -8,7 +8,7 @@ permalink: /links/
 
 ### About me:
 
-A simple\* man with a wonderful wife, 2 daughters. Alpha male to Loki cat, Mollie cat's food provider, Ruby dog's poop scooper. Asks silly questions.
+A simple\* man with a wonderful wife, 2 daughters. Once alpha male to Loki cat, Mollie cat's food provider, Ruby dog's poop scooper. Asks silly questions.
 
 [UK]
 
